@@ -4,6 +4,3 @@
 4 forth line
 5 fifth line
 6 sixth line
-1 a
-2 b
-3 c
