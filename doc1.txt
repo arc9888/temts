@@ -7,3 +7,4 @@
 7 add first line
 8 add second line
 9 add in dev line
+10 Creating a new branch is quick AND simple
