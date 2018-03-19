@@ -4,7 +4,3 @@
 4 forth line
 5 fifth line
 6 sixth line
-7 add first line
-8 add second line
-9 add in dev line
-10 Creating a new branch is quick AND simple
