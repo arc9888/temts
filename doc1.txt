@@ -1,5 +1,5 @@
 1 first line
-2 second linegit
+2 second line
 3 three line
 4 forth line
 5 fifth line
